@@ -18,8 +18,8 @@ Benefits of MobX:
 - Has computes: can pull data out of state and make changes to it and display it back in components
 
 ## Installation
-npm install mobx 
-npm install mobx-react
+- npm install mobx 
+- npm install mobx-react
 
 ## Pets Example
 
