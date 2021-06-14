@@ -36,8 +36,8 @@ Each week I will dedicate time to explore MobX further by researching/practicing
 
 ## Resources
 
-https://mobx.js.org/README.html
-https://www.youtube.com/watch?v=pnhIJA64ByY
-https://www.youtube.com/watch?v=UeRUT5H6XPI&t=194s
+- https://mobx.js.org/README.html
+- https://www.youtube.com/watch?v=pnhIJA64ByY
+- https://www.youtube.com/watch?v=UeRUT5H6XPI&t=194s
 
 
